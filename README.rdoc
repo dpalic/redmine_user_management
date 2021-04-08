@@ -17,4 +17,25 @@ For these users, this plugin adds a top menu Users that gives:
 
 Admin users can't be edited or assigned by this plugin
 
-Directory "doc" has images of this plugin in action
+== How to use the plugin
+
+[Overview]
+
+=== Manage your user managers
+
+[UserManagers]
+
+[AssignPermissionsToUserManages]
+
+=== User managers manage their new users
+
+[UserManagersManageNewUsers]
+
+[ManageNewUser]
+
+
+[Overview]: https://github.com/dpalic/redmine_user_management/blob/master/doc/rum1.jpg "Overview"
+[UserManagers]: https://github.com/dpalic/redmine_user_management/blob/master/doc/rum2.jpg "Overview"
+[AssignPermissionsToUserManages]: https://github.com/dpalic/redmine_user_management/blob/master/doc/rum3.jpg "Overview"
+[UserManagersManageNewUsers]: https://github.com/dpalic/redmine_user_management/blob/master/doc/rum4.jpg "Overview"
+[ManageNewUser]: https://github.com/dpalic/redmine_user_management/blob/master/doc/rum5.jpg "Overview"
